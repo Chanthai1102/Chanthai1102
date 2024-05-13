@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/thai.closer.5">
-    <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/chanthai1102">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
