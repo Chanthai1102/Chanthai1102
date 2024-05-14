@@ -31,7 +31,7 @@ I am a Back End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy
 
 - :zap: In my free time, I research new technology in google
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanthai-thy-72973a282/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chanthai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chanthai-thy-72973a282/)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
